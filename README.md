@@ -8,7 +8,7 @@ At each pressure, it calculates the order parameters that quantitfy
 (2) the organisation in layers, and 
 (3) the hexagonal ordering of nearest neigbours.
 
-Output is presented in three data files: 
-in file 1a, there are the time evolution of global quantities;
-in file 1b, there are the quantities relative to each particle, for each configuration;
-in file 1c, the final configuration is recorded and used as initial configuration for a new simulation.
+Output is presented in three data files. 
+First, file 1a contains the time evolution of global quantities;
+Second, in file 1b, there are the quantities relative to each particle, for each configuration;
+Third, file 1c records the final configuration, used as initial configuration for a new simulation.
